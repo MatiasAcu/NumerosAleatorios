@@ -91,6 +91,7 @@ const SlotMachine = () => {
     setItemMultipliers(newMultipliers);
     const itemIndex= enabledItems.findIndex((item) => item.name === itemChanged);
     enabledItems[itemIndex].multiplier = newMultiplier;
+    setEnabledItems([...enabledItems])
   };
 
   const handleAutoSpin = () => {
