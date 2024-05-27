@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NumerosAleatorios/static/css/main.bdb0df30.css",
-    "main.js": "/NumerosAleatorios/static/js/main.1b5f861c.js",
+    "main.js": "/NumerosAleatorios/static/js/main.09523797.js",
     "static/js/213.4a608e2f.chunk.js": "/NumerosAleatorios/static/js/213.4a608e2f.chunk.js",
     "static/js/732.e2532be4.chunk.js": "/NumerosAleatorios/static/js/732.e2532be4.chunk.js",
     "static/media/dollar.png": "/NumerosAleatorios/static/media/dollar.ed24bb3481a327689b68.png",
@@ -17,12 +17,12 @@
     "static/media/seven.png": "/NumerosAleatorios/static/media/seven.46dcb5b34a53c6ae655f.png",
     "index.html": "/NumerosAleatorios/index.html",
     "main.bdb0df30.css.map": "/NumerosAleatorios/static/css/main.bdb0df30.css.map",
-    "main.1b5f861c.js.map": "/NumerosAleatorios/static/js/main.1b5f861c.js.map",
+    "main.09523797.js.map": "/NumerosAleatorios/static/js/main.09523797.js.map",
     "213.4a608e2f.chunk.js.map": "/NumerosAleatorios/static/js/213.4a608e2f.chunk.js.map",
     "732.e2532be4.chunk.js.map": "/NumerosAleatorios/static/js/732.e2532be4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdb0df30.css",
-    "static/js/main.1b5f861c.js"
+    "static/js/main.09523797.js"
   ]
 }
